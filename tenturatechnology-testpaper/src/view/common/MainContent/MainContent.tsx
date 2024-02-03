@@ -3,6 +3,10 @@ import {Component} from "react";
 export class MainContent extends Component
 {
     render() {
-            return undefined;
+            return (
+                <div>
+
+                </div>
+            );
     }
 }
