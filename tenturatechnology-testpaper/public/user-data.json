@@ -1,0 +1,26 @@
+{
+  "id": "integer",
+  "uid": "string",
+  "display_name": "string",
+  "email": "string",
+  "given_name": "string",
+  "middle_name": "string",
+  "name": "string",
+  "family_name": "string",
+  "nickname": "string",
+  "phone_number": "string",
+  "comment": "string",
+  "directory_id": "integer",
+  "picture_id": "integer",
+  "avatar_url": "string",
+  "metadata": "object",
+  "tags": [
+    "string"
+  ],
+
+  "presence": "string",
+  "created_at": "string",
+  "modified_at": "string",
+  "is_suspended": "boolean",
+  "is_trashed": "boolean"
+}
